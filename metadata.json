@@ -1,0 +1,7 @@
+{
+  "name": "Copy of OmniChat AI",
+  "description": "A high-intelligence general-purpose chatbot powered by Gemini 3 Pro with integrated Google Search for real-time accuracy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
